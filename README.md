@@ -2,7 +2,7 @@
 
 - [Windows10Debloater](##Windows10Debloater)
 - [Drivers](##drivers)
-- [Firefox*](#firefox)
+- [Firefox](#firefox)
 - [Discord](#discord)
 - [Spotify](#spotify)
 - [Rainmeter](#rainmeter)
