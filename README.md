@@ -6,9 +6,8 @@
 - [Discord](#discord)
 - [Spotify](#spotify)
 - [Rainmeter](#rainmeter)
-- [Wallpaper engine](#wallpaper_engine)
-- [More](#more)
 - [JetBrains Mono font](#font)
+- [More](#more)
 
 ## Windows10Debloater
 Get it [here](https://github.com/Sycnex/Windows10Debloater) or run:
@@ -75,6 +74,10 @@ spicetify apply
     - **Plugins**: **Modularplayers, Modularclocks, Plainext**
     - Download them via the jaxcore interface, config them to your taste
 
+## Font
+![Jetbrains mono](https://i.imgur.com/10GUiJ7.png "Jetbrains mono demo from their website")
+- [Download](https://www.jetbrains.com/lp/mono/)
+
 ## More
 
 - Gaming:
@@ -97,4 +100,4 @@ spicetify apply
 - [windows terminal](https://www.microsoft.com/en-US/p/windows-terminal/9n0dx20hk701)
 - [gitmind](https://gitmind.com/download)
 
-TODO: ship skins, ship profile.js (firefox), ship nighttab config (firefox), add jetbrains mono font section, check other rices on workspace
+TODO: ship skins, ship profile.js (firefox), ship nighttab config (firefox), check other rices on workspace
