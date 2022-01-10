@@ -69,7 +69,7 @@ spicetify apply
 **NOTE:** if the above fail (doom on us), here are the links for [spicetify-cli](https://github.com/khanhas/spicetify-cli/releases/) and [dribbblish theme](https://github.com/morpheusthewhite/spicetify-themes/tree/master/Dribbblish), color sheme `nord-dark`, extensions used are: `webnowplaying.js fullAppDisplay.js popupLyrics.js dribbblish.js`
 
 ## Rainmeter
-![rainmeter + wallpaper engine, plugins used below](https://i.imgur.com/89fHR4a.jpeg)
+![rainmeter + wallpaper engine, plugins used below](https://i.imgur.com/89fHR4a.jpeg "rainmeter + wallpaper engine, plugins used below")
 1. [Download](https://www.rainmeter.net/)
 2. [Download JaxCore](https://jax-core.github.io/)
     - **Plugins**: **Modularplayers, Modularclocks, Plainext**
