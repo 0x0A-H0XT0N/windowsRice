@@ -100,4 +100,4 @@ spicetify apply
 - [windows terminal](https://www.microsoft.com/en-US/p/windows-terminal/9n0dx20hk701)
 - [gitmind](https://gitmind.com/download)
 
-TODO: ship profile.js (firefox), ship nighttab config (firefox), check other rices on workspace
+TODO: ship profile.js (firefox), ship nighttab config (firefox), check other rices on workspace, export logitech gaming software profile
