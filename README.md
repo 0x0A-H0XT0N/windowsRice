@@ -19,6 +19,7 @@ Get it [here](https://github.com/Sycnex/Windows10Debloater) or run:
 - [AMD drivers](https://www.amd.com/en/support)
 - [Logitech G HUB](https://www.logitechg.com/en-us/innovation/g-hub.html)
 - [Logitech gaming software](https://support.logi.com/hc/en-us/articles/360025298053-Logitech-Gaming-Software): Full auto m16 is a must have
+  - import profile from the logitech folder
 - [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards): optional
 
 ## Firefox
@@ -100,4 +101,4 @@ spicetify apply
 - [windows terminal](https://www.microsoft.com/en-US/p/windows-terminal/9n0dx20hk701)
 - [gitmind](https://gitmind.com/download)
 
-TODO: ship profile.js (firefox), ship nighttab config (firefox), check other rices on workspace, export logitech gaming software profile
+TODO: ship nighttab config (firefox), check other rices on workspace
