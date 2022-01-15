@@ -27,7 +27,7 @@ Get it [here](https://github.com/Sycnex/Windows10Debloater) or run:
 1. [Download](https://www.mozilla.org/en-US/firefox/new/)
 2. Sync your account
 3. Set it to your default browser
-4. [Run ffprofile](https://ffprofile.com/) or [download (my) profile.js]()
+4. [Run ffprofile](https://ffprofile.com/) or [download (my) prefs.js]()
 5. [Download nighttab config]() and import it
 
 ## Discord
