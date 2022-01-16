@@ -27,8 +27,8 @@ Get it [here](https://github.com/Sycnex/Windows10Debloater) or run:
 1. [Download](https://www.mozilla.org/en-US/firefox/new/)
 2. Sync your account
 3. Set it to your default browser
-4. [Run ffprofile](https://ffprofile.com/) or [download (my) prefs.js]()
-5. [Download nighttab config]() and import it
+4. [Run ffprofile](https://ffprofile.com/) or copy the prefs.js from the firefox folder
+5. Import nighttab config from the firefox folder
 
 ## Discord
 
@@ -101,4 +101,4 @@ spicetify apply
 - [windows terminal](https://www.microsoft.com/en-US/p/windows-terminal/9n0dx20hk701)
 - [gitmind](https://gitmind.com/download)
 
-TODO: ship nighttab config (firefox), check other rices on workspace
+TODO: check other rices on workspace
