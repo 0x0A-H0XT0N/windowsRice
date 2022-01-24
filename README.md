@@ -18,6 +18,8 @@ Get it [here](https://github.com/Sycnex/Windows10Debloater) or run:
 
 - [AMD drivers](https://www.amd.com/en/support)
 - [Logitech G HUB](https://www.logitechg.com/en-us/innovation/g-hub.html)
+  - ![G533 equalizer settings](https://i.imgur.com/sCftb3n.png "G533 equalizer settings")
+
 - [Logitech gaming software](https://support.logi.com/hc/en-us/articles/360025298053-Logitech-Gaming-Software): Full auto m16 is a must have
   - import profile from the logitech folder
 - [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards): optional
