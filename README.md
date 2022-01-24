@@ -100,5 +100,3 @@ spicetify apply
 - [powertoys](https://docs.microsoft.com/en-us/windows/powertoys/install)
 - [windows terminal](https://www.microsoft.com/en-US/p/windows-terminal/9n0dx20hk701)
 - [gitmind](https://gitmind.com/download)
-
-TODO: check other rices on workspace
