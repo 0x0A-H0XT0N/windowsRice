@@ -90,6 +90,7 @@ spicetify apply
     - [zar.gg](https://zar.gg/)
     - change language
   - [escape from tarkov](https://www.escapefromtarkov.com/)
+  - [epic games](https://www.epicgames.com/store/en-US/)
 - [vscode](https://code.visualstudio.com/Download)
   - sync using github account
   - download [git](https://git-scm.com/downloads)
